@@ -31,10 +31,6 @@ terraform,jenkins,aws,css,git,github,ansible,kubernetes,maven,linux,html,mysql,p
 
 - Created repository [paytm](https://github.com/Sampath1-bit/paytm) on 2024-11-20.
 
-## Latest Blog Posts
-
-No blog posts available yet.
-
 ## Connect with Me
 
 https://www.linkedin.com/in/gaddirala-manisampath-025b2a246

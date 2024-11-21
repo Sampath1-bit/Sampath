@@ -14,7 +14,6 @@ terraform,jenkins,aws,css,git,github,ansible,kubernetes,maven,linux,html,mysql,p
 
 ## Top Projects
 
-- [Sampath](https://github.com/Sampath1-bit/Sampath) - Config files for my GitHub profile. (⭐ 0)
 - [paytm](https://github.com/Sampath1-bit/paytm) - A project related to payment systems. (⭐ 0)
 - [BalloonGame](https://github.com/Sampath1-bit/BalloonGame) - A fun balloon popping game built with JavaScript. (⭐ 0)
 
